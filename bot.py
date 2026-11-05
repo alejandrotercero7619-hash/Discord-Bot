@@ -14,4 +14,4 @@ OWNER_ID = 778481723666333707
 async def on_ready():
     print(f"¡Conectado como {bot.user}!")
 
-bot.run("MTU2Nzk0NDU0MDEyNjU3Njc4MA.GA2c78.VTxqsQx4h88xMVgZkGRvXyd6AhdlARAgm8iXuc")
+bot.run("MTU2Nzk0NDU0MDEyNjU3Njc4MA.GUxcSZ.VpKhUcUQ_Y3YoiUEsdptX2XDZacFL8pZcVySd0")
