@@ -1,3 +1,4 @@
+import os
 import discord
 from discord.ext import commands
 
@@ -14,4 +15,4 @@ OWNER_ID = 778481723666333707
 async def on_ready():
     print(f"¡Conectado como {bot.user}!")
 
-bot.run("MTU2Nzk0NDU0MDEyNjU3Njc4MA.GUxcSZ.VpKhUcUQ_Y3YoiUEsdptX2XDZacFL8pZcVySd0")
+bot.run(os.getenv("DISCORD TOKEN")
