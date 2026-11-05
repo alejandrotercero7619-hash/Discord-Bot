@@ -15,4 +15,4 @@ OWNER_ID = 778481723666333707
 async def on_ready():
     print(f"¡Conectado como {bot.user}!")
 
-bot.run(os.getenv(´DISCORD_TOKEN´)
+bot.run(os.getenv("DISCORD_TOKEN")
